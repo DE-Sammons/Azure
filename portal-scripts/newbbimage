@@ -4,7 +4,7 @@
     Param
     (
         # VHD source URI
-        $sourceVHDURI = 'https://alon1111.blob.core.windows.net/imagestore/newbbimage',
+        $sourceVHDURI = 'https://alon1111.blob.core.windows.net/imagestore/newbbimage.vhd',
         
         # VHD sas token
         $sasToken = 'sp=r&st=2022-11-10T07:34:27Z&se=2023-11-10T15:34:27Z&sv=2021-06-08&sr=b&sig=wACZri9%2ByjAl1RFQFuCfo4K4c7etNM%2BAI54MT7Q9fYA%3D'
