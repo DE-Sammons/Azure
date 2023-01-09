@@ -12,7 +12,7 @@
             "value": "snet-shared-p00"
         },
         "osDiskVhdUri": {
-            "value": null
+            "value": "https://backboxstg665387257775.blob.core.windows.net/backboxstg665387257775-cont/newbbimage.vhd"
         },
         "vmName": {
             "value": "vm-backbox-p00"
