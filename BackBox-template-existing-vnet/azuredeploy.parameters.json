@@ -3,19 +3,19 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "existingVirtualNetworkName": {
-            "value": "BackBox-VNET"
+            "value": "vnet-shared-scus-p00"
         },
         "existingVirtualNetworkResourceGroup": {  
-            "value": "Backbox-rg" 
+            "value": "backbox-rg" 
         }, 
         "subnetName": {
-            "value": "BackBox-Subnet"
+            "value": "snet-shared-p00"
         },
         "osDiskVhdUri": {
             "value": null
         },
         "vmName": {
-            "value": "backboxvm01"
+            "value": "vm-backbox-p00"
         },
         "osType": {
             "value": "Linux"
@@ -27,7 +27,7 @@
             "value": "256"
         },
         "location": {
-            "value": "eastus"
+            "value": "southcentralus"
         },
 	  "privateIPAddress":{
             "value": null
